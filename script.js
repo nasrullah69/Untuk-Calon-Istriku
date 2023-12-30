@@ -129,25 +129,25 @@ if (scene == 0) {
 					text.innerHTML = 'colorful... penuh warna kayak kisah kita hehehe';
 					play();
 				} else if (scene == 3) {
-					text.innerHTML = 'yang warna-warni itu buah nya, banyak banget ya';
+					text.innerHTML = 'yang warna-warni itu buah nya, banyak banget ya seperti suka duka brantem kita';
 					play();
 				} else if (scene == 4) {
-					text.innerHTML = 'pohon ini cerita nya pernah aku lihat di mimpi aku';
+					text.innerHTML = 'pohon ini cerita  seperti perjalanan kisah kita yang selalu berwarna nya ';
 					play();
 				} else if (scene == 5) {
-					text.innerHTML = 'emang gak mirip 100% sih, tapi emang buah-buah nya tu warna-warni';
+					text.innerHTML = 'emang gak  100% warnanya bagus, tapi emang buah-buah nya tu warna-warni,Perjalanan kita juga seperti itu tidak 100% mulus';
 					play();
 				} else if (scene == 6) {
 					text.innerHTML = 'abstrak tapi cantik bget seperti elaku, jadi aku mau tunjukin ke ela';
 					play();
 				} else if (scene == 7) {
-					text.innerHTML = 'coba deh, luangin waktu bentar buat ngeliatin ini';
+					text.innerHTML = 'coba ela, luangin waktu bentar buat inget kisah kita';
 					play();
 				} else if (scene == 8) {
-					text.innerHTML = 'suka gak?';
+					text.innerHTML = 'gimana ?suka gak?';
 					play();
 				} else if (scene == 9) {
-					text.innerHTML = 'tapi colorful tree ini akan jauh lebih cantik sewaktu malam hari';
+					text.innerHTML = 'tapi pohon kisah kita ini akan jauh lebih cantik sewaktu malam hari';
 					play();
 				} else if (scene == 10) {
 					text.innerHTML = 'jadi, kita tunggu sampe malam ya....';
@@ -178,14 +178,14 @@ if (scene == 0) {
 					text.innerHTML = "coba klik matahari nya deh, I guarantee you'll be amazed";
 					play();
 				} else if (scene == 15) {
-					text.innerHTML = 'this is a glowing tree too';
+					text.innerHTML = 'this is a our story glowing tree ';
 					text.style.transitionDelay = '0s';
 					play();
 				} else if (scene == 16) {
-					text.innerHTML = 'pohon nya bakal bersinar tau kalo malam hari';
+					text.innerHTML = 'pohon nya bakal bersinar tau kalo malam hari,kisah kita juga tidak berwarna kalau tidak ada brantemnya';
 					play();
 				} else if (scene == 17) {
-					text.innerHTML = 'tapi keliatan nya masih biasa aja ya?';
+					text.innerHTML = 'pohonnya keliatan nya masih biasa aja ya?';
 					play();
 				} else if (scene == 18) {
 					text.innerHTML = 'langit nya juga sepi bet';
@@ -194,7 +194,7 @@ if (scene == 0) {
 					text.innerHTML = 'aku inget ela  pernah bilang kalo ela suka apa yang aku suka, seperti bintang,langit  bahkan kembang api';
 					play();
 				} else if (scene == 20) {
-					text.innerHTML = 'jadi aku mau tunjukin semuanya disini,mungkin baru bisanya disini tapi aku janji kita lihat langsung semuanya';
+					text.innerHTML = 'jadi aku mau tunjukin semuanya disini, mungkin baru bisanya disini tapi aku janji kita lihat langsung semuanya';
 					play();
 				} else if (scene == 21) {
 					text.innerHTML = 'u ready?';
@@ -237,17 +237,17 @@ if (scene == 0) {
 				} else if (scene == 23 && count == -5) {
 					text.style.fontSize = '18px';
 					text.style.top = '23%';
-					text.innerHTML = 'teruntuk ela, aku kangen ela ,aku selalu doakan ela baik baik saja dimanapun itu ';
+					text.innerHTML = 'teruntuk ela, aku kangen ela ,aku  doakan ela baik baik saja dimanapun itu ';
 					play();
 				} else if (scene == 24 && count == -5) {
 					text.style.fontSize = '18px';
 					text.style.top = '23%';
-					text.innerHTML = 'sorry kado nya kelamaan dan biasa aja  hehe';
+					text.innerHTML = 'sorry kado nya kelamaan dan ga sesuai ekspetasi hehe';
 					play();
 				} else if (scene == 25 && count == -5) {
 					text.style.fontSize = '18px';
 					text.style.top = '23%';
-					text.innerHTML = 'kado nya aku kasih 300 bintang aja ya...';
+					text.innerHTML = 'kado nya akutambahin  dengan 300 bintang aja ya...';
 					// firefliesF();
 					// play();
 				} else if (scene == 26 && count == -5) {
@@ -258,7 +258,7 @@ if (scene == 0) {
 				} else if (scene == 27 && count == -5) {
 					text.style.fontSize = '18px';
 					text.style.top = '23%';
-					text.innerHTML = 'dan untuk wish nya, buat aja sendiri, wleee &#128541';
+					text.innerHTML = 'dan untuk wish nya, ela buat aja sendiri, wleee &#128541';
 					play();
 				} else if (scene == 28 && count == -5) {
 					text.style.fontSize = '18px';
@@ -309,7 +309,7 @@ if (scene == 0) {
 					text.innerHTML = '+ 1 lagi...';
 					play();
 				} else if (scene == 39) {
-					text.innerHTML = 'aku mau bilang banyak hal, tapi keknya ga cukup jadi aku mau elaku sehat-sehat wanitaku,Cepat pulang ya,Rumahmu selalu kosong sampai kapanpun';
+					text.innerHTML = 'aku sebenarnya  mau cerita banyak hal, tapi sepertinya cukup  elaku sehat-sehat, Makan yang banyak, Paling penting ela semoga kita bisa memperbaiki kembali ,Posisi ela selalu kosong sampai kapanpun';
 					play();
 				}else if (scene == 40) {
 					text.innerHTML = "today is the oldest you have been, and become the bravest version of you so far";
@@ -321,9 +321,15 @@ if (scene == 0) {
 					text.innerHTML = 'and with these 300 stars,...';
 					play();
 				} else if (scene == 43) {
-					text.innerHTML = 'aku berharap apapun yang baik baik selalu terdapamu elaku, Jika bisa mari perbaiki semuanya ,aku ga punya tenaga buat mulai dari awal apapun dengan orang baru...';
+					text.innerHTML = 'aku berharap apapun yang baik baik selalu sama ela, Jika bisa mari perbaiki semuanya , soalnya aku ga punya tenaga buat mulai dari awal apapun dengan orang baru...';
+					play();
+				}else if (scene == 44) {
+					text.innerHTML = 'and with these 300 stars,...';
+					play();
+				} else if (scene == 45) {
+					text.innerHTML = 'semoga tujuan ela samaku tercapai seluruhnya tahun ini ,see you elaku...';	
 					firefliesF();
-				} else if (scene == 44) {
+				} else if (scene == 46) {
 					document.body.classList.add('fireflies');
 					magic.style.display = 'block';
 					magic.style.animation = 'fade 2s linear';
@@ -331,7 +337,7 @@ if (scene == 0) {
 					text.style.animation = 'fade 1s linear';
 					text.innerHTML = 'and here are the fireflies';
 					play();
-				} else if (scene >= 45) {
+				} else if (scene >= 47) {
 					text.innerHTML = '';
 					magic.style.display = 'none';
 					play();
