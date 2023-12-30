@@ -135,7 +135,7 @@ if (scene == 0) {
 					text.innerHTML = 'pohon ini cerita  seperti perjalanan kisah kita yang selalu berwarna nya ';
 					play();
 				} else if (scene == 5) {
-					text.innerHTML = 'emang gak  100% warnanya bagus, tapi emang buah-buah nya tu warna-warni,Perjalanan kita juga seperti itu tidak 100% mulus';
+					text.innerHTML = 'emang gak  100% warnanya bagus, tapi emang buah-buah nya tu warna-warni. Perjalanan kita juga seperti itu tidak 100% mulus';
 					play();
 				} else if (scene == 6) {
 					text.innerHTML = 'abstrak tapi cantik bget seperti elaku, jadi aku mau tunjukin ke ela';
@@ -144,7 +144,7 @@ if (scene == 0) {
 					text.innerHTML = 'coba ela, luangin waktu bentar buat inget kisah kita';
 					play();
 				} else if (scene == 8) {
-					text.innerHTML = 'gimana ?suka gak?';
+					text.innerHTML = 'gimana? suka gak?';
 					play();
 				} else if (scene == 9) {
 					text.innerHTML = 'tapi pohon kisah kita ini akan jauh lebih cantik sewaktu malam hari';
@@ -182,16 +182,16 @@ if (scene == 0) {
 					text.style.transitionDelay = '0s';
 					play();
 				} else if (scene == 16) {
-					text.innerHTML = 'pohon nya bakal bersinar tau kalo malam hari,kisah kita juga tidak berwarna kalau tidak ada brantemnya';
+					text.innerHTML = 'pohon nya bakal bersinar tau kalo malam hari. Kisah kita juga tidak berwarna kalau tidak ada brantemnya';
 					play();
 				} else if (scene == 17) {
 					text.innerHTML = 'pohonnya keliatan nya masih biasa aja ya?';
 					play();
 				} else if (scene == 18) {
-					text.innerHTML = 'langit nya juga sepi bet';
+					text.innerHTML = 'langit nya juga sepi banget';
 					play();
 				} else if (scene == 19) {
-					text.innerHTML = 'aku inget ela  pernah bilang kalo ela suka apa yang aku suka, seperti bintang,langit  bahkan kembang api';
+					text.innerHTML = 'aku inget ela pernah bilang kalo ela suka apa yang aku suka, seperti bintang, langit bahkan kembang api';
 					play();
 				} else if (scene == 20) {
 					text.innerHTML = 'jadi aku mau tunjukin semuanya disini, mungkin baru bisanya disini tapi aku janji kita lihat langsung semuanya';
@@ -237,7 +237,7 @@ if (scene == 0) {
 				} else if (scene == 23 && count == -5) {
 					text.style.fontSize = '18px';
 					text.style.top = '23%';
-					text.innerHTML = 'teruntuk ela, aku kangen ela ,aku  doakan ela baik baik saja dimanapun itu ';
+					text.innerHTML = 'teruntuk ela, aku kangen ela ,aku doakan ela selalu baik baik saja dimanapun itu ';
 					play();
 				} else if (scene == 24 && count == -5) {
 					text.style.fontSize = '18px';
@@ -247,7 +247,7 @@ if (scene == 0) {
 				} else if (scene == 25 && count == -5) {
 					text.style.fontSize = '18px';
 					text.style.top = '23%';
-					text.innerHTML = 'kado nya akutambahin  dengan 300 bintang aja ya...';
+					text.innerHTML = 'kado nya aku tambahin  dengan 300 bintang aja ya...';
 					// firefliesF();
 					// play();
 				} else if (scene == 26 && count == -5) {
@@ -263,7 +263,7 @@ if (scene == 0) {
 				} else if (scene == 28 && count == -5) {
 					text.style.fontSize = '18px';
 					text.style.top = '23%';
-					text.innerHTML = 'tuh aku  kasih bintang jatuh satu';
+					text.innerHTML = 'tuh aku kasih bintang jatuh satu';
 					shoots.style.display = 'block';
 					shoots.innerHTML = '<span></span>';
 					shoots.classList = 'shootingStar one';
@@ -273,7 +273,7 @@ if (scene == 0) {
 					shoots.classList = 'shootingStar none';
 					play();
 				} else if (scene == 30) {
-					text.innerHTML = 'oke deh, nih sekali lagi ya cintaku...';
+					text.innerHTML = 'oke deh, nih sekali lagi ya sayangku...';
 					play();
 				} else if (scene == 31) {
 					text.innerHTML = 'tuhhh, buruan make a wish';
@@ -321,13 +321,13 @@ if (scene == 0) {
 					text.innerHTML = 'and with these 300 stars,...';
 					play();
 				} else if (scene == 43) {
-					text.innerHTML = 'aku berharap apapun yang baik baik selalu sama ela, Jika bisa mari perbaiki semuanya , soalnya aku ga punya tenaga buat mulai dari awal apapun dengan orang baru...';
+					text.innerHTML = 'aku berharap apapun yang terbaik selalu untuk ela, Jika bisa mari perbaiki semuanya, soalnya aku sudah ga punya tenaga buat mulai dari awal apapun dengan orang baru...';
 					play();
 				}else if (scene == 44) {
 					text.innerHTML = 'and with these 300 stars,...';
 					play();
 				} else if (scene == 45) {
-					text.innerHTML = 'semoga tujuan ela samaku tercapai seluruhnya tahun ini ,see you elaku...';	
+					text.innerHTML = 'semoga harapan ela samaku tercapai seluruhnya tahun ini ,see you elaku...';	
 					firefliesF();
 				} else if (scene == 46) {
 					document.body.classList.add('fireflies');
