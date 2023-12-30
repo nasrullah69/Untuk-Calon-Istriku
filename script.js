@@ -178,7 +178,7 @@ if (scene == 0) {
 					text.innerHTML = "coba klik matahari nya deh, I guarantee you'll be amazed";
 					play();
 				} else if (scene == 15) {
-					text.innerHTML = 'this is a our story glowing tree ';
+					text.innerHTML = 'this tree as our story hehehe ';
 					text.style.transitionDelay = '0s';
 					play();
 				} else if (scene == 16) {
